@@ -1,0 +1,2 @@
+# Ajg
+cd Ajg.py
